@@ -38,7 +38,7 @@ drop_connect: null
 drop_path: null
 drop_rate: 0.0
 epoch_repeats: 0.0
-epochs: 300
+epochs: 290
 eval_metric: top1
 experiment: ''
 fuser: ''
